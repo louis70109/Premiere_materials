@@ -1,0 +1,1 @@
+# Source from [六指淵](https://www.sixvfx.com/progress_bar)
