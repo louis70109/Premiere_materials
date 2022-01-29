@@ -7,6 +7,12 @@
 
 https://user-images.githubusercontent.com/6940010/150906398-8418b33f-99e8-4234-ac92-791917b6f601.mp4
 
+- [震動特效](https://github.com/louis70109/Premiere_materials/tree/main/%E9%9C%87%E5%8B%9501)
+  - 可設定成 Effect(效果)、範例圖片
+
+https://user-images.githubusercontent.com/6940010/151657652-4fd426aa-9be4-4155-99cf-3918b7d696ef.mp4
+
+
 ## LICENSE
 
 [MIT](https://github.com/louis70109/Premiere_materials/blob/main/LICENSE)
