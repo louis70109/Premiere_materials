@@ -12,6 +12,9 @@ https://user-images.githubusercontent.com/6940010/150906398-8418b33f-99e8-4234-a
 
 https://user-images.githubusercontent.com/6940010/151657652-4fd426aa-9be4-4155-99cf-3918b7d696ef.mp4
 
+- 遮罩+馬賽克
+  - 簡易遮罩挖空
+  - 動態追蹤馬賽克
 
 ## LICENSE
 
