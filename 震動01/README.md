@@ -1,0 +1,1 @@
+# Sorce From [《PR教學》免插件免AE！利用亂數表自己做出震動模板吧！](https://www.sixvfx.com/random_number_wiggle)
