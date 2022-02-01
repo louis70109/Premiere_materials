@@ -9,4 +9,5 @@
   - 基本 3D
   - 穿透文字
   - 關鍵影格(Key frame) -> Distance to Image(與圖像距離) -> 調整文字位置(Position) -> 如果佔到黑色可弄縮放
+  - [影片參考](https://youtu.be/LHXFKnTWE7U?t=490)
 - 動態追蹤馬賽克
