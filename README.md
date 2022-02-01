@@ -16,13 +16,13 @@ https://user-images.githubusercontent.com/6940010/151657652-4fd426aa-9be4-4155-9
   - 簡易遮罩挖空
   - 動態追蹤馬賽克
 
-https://user-images.githubusercontent.com/6940010/151666454-3223d86b-9060-4f54-aa7a-d4e79f3673aa.mp4
+https://user-images.githubusercontent.com/6940010/152015106-08f480b2-76ea-4f82-bdaf-6610baff98a9.mp4
 
 ## LICENSE
 
 [MIT](https://github.com/louis70109/Premiere_materials/blob/main/LICENSE)
 
-資料夾中皆有註明參考來源，如需移除請來信告知～
+資料夾內皆有註明參考來源，如需移除請來信告知～
 
 歡迎使用此專案的材料，如果有相關材料也歡迎提供 ^^
 
