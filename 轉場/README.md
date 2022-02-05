@@ -1,4 +1,4 @@
-
+# 鏡向轉場特效
 
 - Video Effects -> Stylize -> Replicate
 - Distort -> mirror
@@ -12,3 +12,4 @@
   - click `Enter` to let red(lag) frame to be green frame(smooth)
 - set two Keyframe to `Bezier`
   - https://youtu.be/fCMjb3SJxPY?t=340
+- Only for 1920x1080(16:9)
